@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/memegen/static/css/main.02bf0f76.css",
+    "main.js": "/memegen/static/js/main.6f3fa365.js",
+    "static/js/787.896957b2.chunk.js": "/memegen/static/js/787.896957b2.chunk.js",
+    "index.html": "/memegen/index.html",
+    "main.02bf0f76.css.map": "/memegen/static/css/main.02bf0f76.css.map",
+    "main.6f3fa365.js.map": "/memegen/static/js/main.6f3fa365.js.map",
+    "787.896957b2.chunk.js.map": "/memegen/static/js/787.896957b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02bf0f76.css",
+    "static/js/main.6f3fa365.js"
+  ]
+}
